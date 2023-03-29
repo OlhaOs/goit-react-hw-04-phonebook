@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-contactBook/static/css/main.05c7f3e8.css",
+    "main.js": "/goit-react-hw-02-contactBook/static/js/main.ab91dcd6.js",
+    "index.html": "/goit-react-hw-02-contactBook/index.html",
+    "main.05c7f3e8.css.map": "/goit-react-hw-02-contactBook/static/css/main.05c7f3e8.css.map",
+    "main.ab91dcd6.js.map": "/goit-react-hw-02-contactBook/static/js/main.ab91dcd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c7f3e8.css",
+    "static/js/main.ab91dcd6.js"
+  ]
+}
